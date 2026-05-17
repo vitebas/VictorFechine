@@ -27,9 +27,14 @@ Atualmente estou focado em aprimorar minhas habilidades em **Tecnologia que est�
 
 Gosto de trocar ideias, colaborar em projetos e expandir minha rede. Sinta-se à vontade para me dar um alô:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK_DO_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
-[![Seu Portfólio](https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://seu-site.com)
+•📧 Email: victaofechine@gmail.com
+
+•💼 LinkedIn: VictorFechine
+
+•📱 Telefone: +55 (61) 992458805
+
+•📍 Localização: Brasília, Distrito Federal, Brasil
+
 
 ---
 
